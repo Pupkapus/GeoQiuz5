@@ -23,14 +23,24 @@
 
 <p align = "center" >Исследуем Layout Inspector</p>
 
-![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Снимок%20экрана%20(7).png)
 
-<p align = "center" >Упражнение. Profiler</p>
-
-![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_1.png)
-![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_2.png)
-![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_3.png)
-![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_4.png)
+<p align = "center" >Codewars</p>
+<p align = "center" >1</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/1.png)
+<p align = "center" >2</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/2.png)
+<p align = "center" >3</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/3.png)
+<p align = "center" >4</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/4.png)
+<p align = "center" >5</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/5.png)
+<p align = "center" >6</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/6.png)
+<p align = "center" >7</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/7.png)
+<p align = "center" >8</p>
+![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/8.png)
 ***
 <p align = "center" >ВЫВОД</p>
-<p>Подводя итог всему сказанному, могу сделать вывод, что, поработав c kotlin, я узнал многое и применил это на практике. Все задачи были выполнены.</p>
+<p>Подводя итог всему сказанному, могу сделать вывод, что, поработав c kotlin, я узнал многое и применил это на практике, прорешивая задания на Codewars. Все задачи были выполнены.</p>
