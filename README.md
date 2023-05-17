@@ -106,6 +106,7 @@ class CheatActivity : AppCompatActivity() {
 
 <p align = "center" >Упражнение. Отслеживание читов по вопросу  </p>
 <p align = "center" >QuizViewModel</p>
+
 ```kotlin
 
 package com.example.secondapp
@@ -161,6 +162,7 @@ class QuizViewModel : ViewModel(){
 }
 
 ```
+
 ***
 
 <p align = "center" >Codewars</p>
