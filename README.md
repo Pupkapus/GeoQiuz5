@@ -25,7 +25,7 @@
 
 
 <p align = "center" >Codewars</p>
-![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/1.png)
+![Screenshot](https://github.com/Pupkapus/GeoQiuz4/blob/main/Screenshot_1.png)
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/2.png)
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/3.png)
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/4.png)
