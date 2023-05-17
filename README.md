@@ -25,21 +25,13 @@
 
 
 <p align = "center" >Codewars</p>
-<p align = "center" >1</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/1.png)
-<p align = "center" >2</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/2.png)
-<p align = "center" >3</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/3.png)
-<p align = "center" >4</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/4.png)
-<p align = "center" >5</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/5.png)
-<p align = "center" >6</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/6.png)
-<p align = "center" >7</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/7.png)
-<p align = "center" >8</p>
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz5/blob/main/8.png)
 ***
 <p align = "center" >ВЫВОД</p>
